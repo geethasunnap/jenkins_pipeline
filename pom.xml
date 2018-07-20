@@ -47,7 +47,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.geestract.testing</mainClass>
+            <mainClass>com.geestract.testing.FizzBuzz.class</mainClass>
           </manifest>
         </archive>
       </configuration>
